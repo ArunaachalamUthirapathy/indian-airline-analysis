@@ -127,8 +127,8 @@
 <body>
 
   <div class="banner">
-    <h1>📊 Power BI Sales Dashboard</h1>
-    <p>Built with 💙 using Power BI, Excel, and DAX by Arunaachalam</p>
+    <h1>📊 Power BI Dashboard</h1>
+    <p>Built using Power BI, Excel, and DAX /p>
   </div>
 
   <div class="container">
@@ -144,7 +144,7 @@
     </div>
 
     <footer>
-      <p>Made with ❤️ by <strong>Arunaachalam</strong></p>
+      <p>Made with 💙 by <strong>Arunaachalam</strong></p>
     </footer>
   </div>
 
