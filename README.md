@@ -40,13 +40,13 @@ This dashboard is designed to help stakeholders monitor sales performance with e
 ## 🌐 Live Preview
 
 Check out the beautifully styled project page 👉  
-🔗 [View Live on GitHub Pages](https://yourusername.github.io/your-repo-name)
+🔗 [View Live on GitHub Pages](https://arunaachalamuthirapathy.github.io/indian-airline-analysis/)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm **Arunaachalam** 👋  
+Hi, I'm **Arunaachalam Uthirapathy** 👋  
 I’m passionate about data storytelling and transforming raw numbers into meaningful insights through clean dashboards and BI tools.
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/arunaachalaminfo/)
