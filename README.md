@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -136,7 +136,6 @@
     <p>This dashboard visualizes monthly sales data, highlights top-performing products, and shows trends across regions.</p>
 
     <h2>🖼️ Report Screenshots</h2>
-    <h3>🔹 Page 1 – Executive Overview</h3>
     <img src="Airline_ind.png" alt="Dashboard Screenshot">
 
     <h2>📥 Download</h2>
