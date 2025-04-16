@@ -1,152 +1,56 @@
+# 📊 Power BI Sales Dashboard
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Power BI Sales Dashboard – Arunaachalam</title>
+Welcome to my interactive Power BI project that visualizes sales data in a compelling and dynamic way.
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+---
 
-  <style>
-    :root {
-      --primary: #1d3557;
-      --accent: #457b9d;
-      --light: #f1faee;
-      --bg: #f8f9fa;
-      --text: #2d3142;
-    }
+## 📌 Project Summary
 
-    body {
-      font-family: 'Inter', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: var(--bg);
-      color: var(--text);
-    }
+This dashboard is designed to help stakeholders monitor sales performance with ease. It provides a clean and insightful view of:
 
-    .banner {
-      background: linear-gradient(135deg, #1d3557, #457b9d);
-      color: white;
-      padding: 40px 20px;
-      text-align: center;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-    }
+- 📈 Monthly sales trends  
+- 🏆 Top-performing products  
+- 📍 Regional performance comparison  
+- 🔎 KPIs and dynamic filtering
 
-    .banner h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-      animation: fadeInDown 1s ease-in-out;
-    }
+---
 
-    .banner p {
-      font-size: 1.1rem;
-      color: #dceefb;
-      animation: fadeInUp 1.2s ease-in-out;
-    }
+## 🛠️ Tools Used
 
-    .container {
-      max-width: 900px;
-      margin: 30px auto;
-      padding: 20px;
-      background: white;
-      border-radius: 16px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
-      animation: fadeIn 1.5s ease;
-    }
+- Power BI (Desktop)
+- Microsoft Excel (Data Source)
+- DAX (for calculated columns & measures)
 
-    h2 {
-      color: var(--primary);
-      margin-top: 30px;
-    }
+---
 
-    img {
-      width: 100%;
-      max-width: 850px;
-      border-radius: 12px;
-      margin: 15px 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-      transition: transform 0.3s ease;
-    }
+## 🖼️ Dashboard Preview
 
-    img:hover {
-      transform: scale(1.01);
-    }
+![Dashboard Screenshot](Airline_ind.png)
 
-    .download {
-      margin-top: 20px;
-      background: #eaf6ff;
-      padding: 15px;
-      border-left: 5px solid #1d3557;
-      border-radius: 8px;
-    }
+> View full dashboard and interact with visual elements via Power BI Desktop.
 
-    .download a {
-      color: #1d3557;
-      text-decoration: none;
-      font-weight: 600;
-      transition: all 0.3s ease;
-    }
+---
 
-    .download a:hover {
-      color: #457b9d;
-      text-decoration: underline;
-    }
+## 📥 Download
 
-    footer {
-      margin-top: 40px;
-      font-size: 0.95rem;
-      text-align: center;
-      color: #888;
-    }
+- [Download the .pbix file](Airline.pbix) to explore or customize the report on your own Power BI Desktop.
 
-    hr {
-      border: none;
-      height: 2px;
-      background: #eee;
-      margin: 30px 0;
-    }
+---
 
-    /* Animations */
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+## 🌐 Live Preview
 
-    @keyframes fadeInDown {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+Check out the beautifully styled project page 👉  
+🔗 [View Live on GitHub Pages](https://yourusername.github.io/your-repo-name)
 
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
+---
 
-  <div class="banner">
-    <h1>📊 Power BI Dashboard</h1>
-    <p>Built using Power BI, Excel, and DAX /p>
-  </div>
+## 🙋‍♂️ About Me
 
-  <div class="container">
-    <h2>🔍 Project Overview</h2>
-    <p>This dashboard visualizes monthly sales data, highlights top-performing products, and shows trends across regions.</p>
+Hi, I'm **Arunaachalam** 👋  
+I’m passionate about data storytelling and transforming raw numbers into meaningful insights through clean dashboards and BI tools.
 
-    <h2>🖼️ Report Screenshots</h2>
-    <img src="Airline_ind.png" alt="Dashboard Screenshot">
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/arunaachalaminfo/)
 
-    <h2>📥 Download</h2>
-    <div class="download">
-      🔗 <a href="Airline.pbix" download>Download Power BI (.pbix) File</a>
-    </div>
+---
 
-    <footer>
-      <p>Made with 💙 by <strong>Arunaachalam</strong></p>
-    </footer>
-  </div>
-
-</body>
-</html>
+> 🔧 Built with 💙 using Power BI — Created by Arunaachalam
